@@ -7,5 +7,6 @@ sandbox for testing out ideas and whatnot.
 - http://www.fastcompany.com/
 - http://talktothestation.com/
 - http://www.utsandiego.com/
+- http://news.discovery.com
 
 vim: filetype=markdown shiftwidth=2 tabstop=2
