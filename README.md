@@ -10,5 +10,6 @@ sandbox for testing out ideas and whatnot.
 - http://news.discovery.com
 - https://www.pcihost.com/ 
   - shows articles and article topics
+- http://www.museumofvancouver.ca/about
 
 vim: filetype=markdown shiftwidth=2 tabstop=2
