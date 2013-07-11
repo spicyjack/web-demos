@@ -11,5 +11,7 @@ sandbox for testing out ideas and whatnot.
 - https://www.pcihost.com/ 
   - shows articles and article topics
 - http://www.museumofvancouver.ca/about
+- http://lifehacker.com
+  - Large banners interspersed with smaller article headers
 
 vim: filetype=markdown shiftwidth=2 tabstop=2
