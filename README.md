@@ -13,5 +13,7 @@ sandbox for testing out ideas and whatnot.
 - http://www.museumofvancouver.ca/about
 - http://lifehacker.com
   - Large banners interspersed with smaller article headers
+- http://blog.room34.com/archives/4530
+  - color scheme and fonts
 
 vim: filetype=markdown shiftwidth=2 tabstop=2
