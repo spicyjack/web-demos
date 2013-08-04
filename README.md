@@ -16,5 +16,8 @@ sandbox for testing out ideas and whatnot.
 - http://blog.room34.com/archives/4530
   - color scheme and fonts
 - http://www.digitaltrends.com/
+- http://rypress.com/tutorials/objective-c/index.html
+  - simple layout, font
+
 
 vim: filetype=markdown shiftwidth=2 tabstop=2
