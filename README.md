@@ -21,6 +21,6 @@ sandbox for testing out ideas and whatnot.
 - http://www.digitaltrends.com/
 - http://rypress.com/tutorials/objective-c/index.html
   - simple layout, font
-
+- http://krakowcityofliterature.com/
 
 vim: filetype=markdown shiftwidth=2 tabstop=2
